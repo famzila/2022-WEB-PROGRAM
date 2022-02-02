@@ -23,7 +23,7 @@ Note: 🗣️ By the way, I speak English, French, and Arabic. So feel free to a
 ## [The program roadmap](https://javascript.plainenglish.io/my-web-articles-roadmap-for-2022-20387cab9b07)
 
 - [General Web Knowledge](Chapter1)
-- Web page skeleton: HTML (Current chapter)
+- [Web page skeleton: HTML (Current chapter)](Chapter2)
 - Web page style: CSS
 - Web interactions: JavaScript
 - BOM & DOM
