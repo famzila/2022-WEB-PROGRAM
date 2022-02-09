@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <p>
+      By clicking on the botton, you trigger a function that will change some
+      text in a p element wityh id demo1.
+    </p>
+
+    <button onclick="show()" onmousemove="moving()" onmouseout="leaving()">
+      See me
+    </button>
+
+    <p id="demo1"></p>
+    <p id="demo2"></p>
+    <p id="demo3"></p>
+
+    <script>
+      function show() {
+        document.getElementById("demo1").innerHTML = "Boooow";
+      }
+      function moving() {
+        document.getElementById("demo2").innerHTML = "Oh I see you moving";
+      }
+      function leaving() {
+        document.getElementById("demo2").innerHTML = "";
+        document.getElementById("demo3").innerHTML = "You're leaving :(";
+      }
+    </script>
+  </body>
+</html>
