@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>LocalStorage</title>
+    </head>
+    <h1>LocalStorage demo</h1>
+    <body>
+        <script>
+            if (typeof Storage !== "undefined") {
+                localStorage.setItem("name", "Fatima");
+                localStorage.setItem("country", "France");
+                localStorage.setItem("hobbies", "learning and sharing!");
+                document.write(
+                "Hi, I'm" +
+                    " " +
+                    localStorage.name +
+                    " " +
+                    "from" +
+                    " " +
+                    localStorage.country +
+                    ", I love " +
+                    localStorage.hobbies
+                );
+            } else {
+                alert("Sorry! your browser is not supporting Web Storage");
+            }
+        </script>
+    </body>
+</html>

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>SessionStorage</title>
+    </head>
+    <h1>SessionStorage demo</h1>
+    <body>
+        <script>
+            if (typeof Storage !== "undefined") {
+                sessionStorage.setItem("name", "Fatima");
+                sessionStorage.setItem("country", "France");
+                sessionStorage.setItem("hobbies", "learning and sharing!");
+                document.write(
+                "Hi, I'm" +
+                    " " +
+                    sessionStorage.name +
+                    " " +
+                    "from" +
+                    " " +
+                    sessionStorage.country +
+                    ", I love " +
+                    sessionStorage.hobbies
+                );
+            } else {
+                alert("Sorry! your browser is not supporting Web Storage");
+            }
+        </script>
+    </body>
+</html>
