@@ -1,0 +1,12 @@
+# 2022-WEB-PROGRAM - CHAPTER 3
+
+## Web page style: CSS (current chapter)
+
+- [Selectors (From basic to complex)](https://javascript.plainenglish.io/selectors-from-basic-to-complex-4f4f48316731?source=your_stories_page----------------------------------------)
+- [Box model](https://medium.com/geekculture/box-model-b67b40bb8930?source=your_stories_page----------------------------------------)
+- [Typography](https://levelup.gitconnected.com/the-web-typography-eb92cdd9b534?source=your_stories_page----------------------------------------)
+- Positioning
+- Layouts: Flex & Grid
+- Shadows, colors, and gradients
+- Transitions & transformations and animations
+- Responsive design (Media queries)
