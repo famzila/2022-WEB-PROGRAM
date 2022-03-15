@@ -7,10 +7,37 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Advanced Positioning in CSS</title>
     <style>
-        .navigation {
+        .container {
+            /* First, create a flex layout context */
             display: flex;
+            /* Second, define the flow direction and if we allow the items to wrap
+            * flex-direction: row;
+            * flex-wrap: wrap;
+            * Combined gives the shorthand: flex-flow: row wrap;
+            */  
             flex-flow: row wrap;
+            font-weight: bold;
+            text-align: center; 
+        }
+
+        .container > * {
+            padding: 10px;
+            /* Set all items to be 100% width */
+            flex: 1 100%;
+        }
+        
+        .navigation {
+            /* First, create a flex layout context */
+            display: flex;
+            /* Second, define the flow direction and if we allow the items to wrap
+            * flex-direction: row;
+            * flex-wrap: wrap;
+            * Combined gives the shorthand: flex-flow: row wrap;
+            */ 
+            flex-flow: row wrap;
+            /* This aligns items to the end line on main-axis (the row axis in this case) */
             justify-content: flex-end;
+
             list-style: none;
             margin: 0; 
         }
@@ -32,26 +59,18 @@
             border-bottom: none;
         }
 
-        .container {
-            display: flex;  
-            flex-flow: row wrap;
-            font-weight: bold;
-            text-align: center; 
-        }
-
-        .container > * {
-            padding: 10px;
-            flex: 1 100%;
-        }
-
         .header, .footer {
             background: black;
             color: white;
         }
 
         .main {
+            /* The main content should take 3 times as much width as the other two side contents  */
             flex: 3 0px; 
             text-align: left;
+            /* Put the main content bloc in the second place 
+            (between left side content and right side content)
+            */
             order: 2; 
         }
 
@@ -63,14 +82,16 @@
             flex: 1 0 0; 
         }
 
+        /* Put the left side content in the first place*/
         .aside-1 { 
             order: 1; 
         } 
 
+        /* Put the right side content in the third place*/
         .aside-2 { 
             order: 3; 
         }
-
+        /* Put the footer at the end*/
         .footer  { 
             order: 4; 
         }
@@ -83,7 +104,7 @@
 </head>
 
 <body>
-    <div class="container">
+    <main class="container">
         <header class="header">
             <ul class="navigation">
                 <li><a href="#">Home</a></li>
@@ -92,17 +113,17 @@
                 <li><a href="#">Contact</a></li>
             </ul>
         </header>
-        <main class="main">
+        <article class="main">
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
                 dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
                 ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
                 fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
                 deserunt mollit anim id est laborum.</p>
-        </main>
+        </article>
         <aside class="aside aside-1">Left side content</aside>
         <aside class="aside aside-2">Right side content</aside>
         <footer class="footer">Footer</footer>
-    </div>
+    </main>
 </body>
 
 </html>
