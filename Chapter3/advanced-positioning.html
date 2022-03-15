@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Advanced Positioning in CSS</title>
+    <style>
+        .navigation {
+            display: flex;
+            flex-flow: row wrap;
+            justify-content: flex-end;
+            list-style: none;
+            margin: 0; 
+        }
+
+        .navigation a { 
+            text-align: center; 
+            text-decoration: none;
+            display: block;
+            padding: 0.5em 1.5em;
+            color: white;
+        }
+        
+        .navigation a:hover {
+            background: gold;
+            color: black;
+        }
+
+        .navigation li:last-of-type a {
+            border-bottom: none;
+        }
+
+        .container {
+            display: flex;  
+            flex-flow: row wrap;
+            font-weight: bold;
+            text-align: center; 
+        }
+
+        .container > * {
+            padding: 10px;
+            flex: 1 100%;
+        }
+
+        .header, .footer {
+            background: black;
+            color: white;
+        }
+
+        .main {
+            flex: 3 0px; 
+            text-align: left;
+            order: 2; 
+        }
+
+        .aside-1, .aside-2 {
+            background: gold;
+        }
+        
+        .aside { 
+            flex: 1 0 0; 
+        }
+
+        .aside-1 { 
+            order: 1; 
+        } 
+
+        .aside-2 { 
+            order: 3; 
+        }
+
+        .footer  { 
+            order: 4; 
+        }
+
+        body {
+            padding: 0; 
+            margin: 0;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <header class="header">
+            <ul class="navigation">
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Blog</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </header>
+        <main class="main">
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+                dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
+                ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+                fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
+                deserunt mollit anim id est laborum.</p>
+        </main>
+        <aside class="aside aside-1">Left side content</aside>
+        <aside class="aside aside-2">Right side content</aside>
+        <footer class="footer">Footer</footer>
+    </div>
+</body>
+
+</html>
