@@ -25,7 +25,7 @@
             /* Set all items to be 100% width */
             flex: 1 100%;
         }
-        
+
         .navigation {
             /* First, create a flex layout context */
             display: flex;
@@ -79,7 +79,8 @@
         }
         
         .aside { 
-            flex: 1 0 0; 
+            /* Tell the aside elements to take the whole place so that the next element (footer) will stay at the buttom*/
+            flex: 1; 
         }
 
         /* Put the left side content in the first place*/
