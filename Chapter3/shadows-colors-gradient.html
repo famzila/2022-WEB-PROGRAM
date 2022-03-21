@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Shadows, Colors and gradient in CSS</title>
+    <style>
+        body {
+            background-color: #E9E9E9;
+            padding-top: 20px;
+            font-family: 'Montserrat', sans-serif;
+        }
+        h1 {
+            font-weight: bolder;
+            font-size: 50px;
+            text-align: center;
+            text-shadow: 0 2px 3px hsla(0deg, 0%, 0%, 0.25);
+            text-transform: uppercase;
+        }
+        article p {
+            font-size: large;
+            line-height: 2em;
+        }
+        .box {
+            background-image: linear-gradient(to top, #2c3e50, #4ca1af);
+            box-shadow: 0 0 15px hsla(0deg, 0%, 0%, 0.5);
+            padding: 40px;
+            margin: 30px;
+            width: 500px;
+            height: 400px;
+            border-radius: 20px;
+            color: white;
+        }
+
+        .container {
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+            justify-content: space-around;
+        }
+    </style>
+</head>
+
+<body>
+    <main>
+        <h1>Colors, shadow, gradient in CSS...</h1>
+        <section class="container">
+            <article class="box">
+                <h1>Box 1</h1>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
+                    et
+                    dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
+                    aliquip.</p>
+            </article>
+            <article class="box">
+                <h1>Box 2</h1>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
+                    et
+                    dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
+                    aliquip ex ea commodo consequat. </p>
+            </article>
+        </section>
+    </main>
+
+</body>
+
+</html>
