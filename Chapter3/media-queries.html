@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS Media Queries</title>
+    <style>
+        .container{
+            display: flex;
+            flex-direction: row;
+            justify-content: space-around;
+        }
+
+        div {
+            width: 300px;
+            height: 100px;
+            background-color: black;
+            margin: 5px;
+        }
+
+        h1{
+            display: none;
+        }
+
+        /* Apply this style only when the screen width is less or equal to 600px */
+        @media only screen and (max-width: 600px) {
+            /* Change the blocs display direction to column */
+            .container{
+                flex-direction: column;
+            }
+            /* Change the blocs width and color */
+            div {
+                width: 500px;
+                background-color: orange;
+            }
+            /* Display the h1 only when screen width is less 600px*/
+            h1 {
+                display: block;
+            }
+        }
+    </style>
+</head>
+<body>
+    <main>
+        <h1> The screen width is less or equal to 600px</h1>
+        <section class="container">
+            <div></div>
+            <div></div>
+            <div></div>  
+        </section>
+    </main>
+</body>
+</html>
