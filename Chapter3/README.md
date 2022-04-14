@@ -7,6 +7,6 @@
 - [Typography](https://levelup.gitconnected.com/the-web-typography-eb92cdd9b534?source=your_stories_page----------------------------------------)
 - [Positioning](https://famzil.medium.com/positioning-in-css-62ded441ef4d)
 - [Layouts: Flex & Grid](https://medium.com/geekculture/advanced-positioning-systems-in-css-90cf5689cb61?source=your_stories_page----------------------------------------)
-- Shadows, colors, and gradients
-- Transitions & transformations and animations
-- Responsive design (Media queries)
+- [Shadows, colors, and gradients](https://medium.com/codex/css-beauty-de40e965c452?source=your_stories_page----------------------------------------)
+- [Transitions & transformations and animations](https://javascript.plainenglish.io/css-in-action-yes-css-can-move-without-js-b9906310f1c2?source=your_stories_page----------------------------------------)
+- [Responsive design (Media queries)](https://levelup.gitconnected.com/make-your-web-page-look-good-everywhere-4cdba21914e5?source=your_stories_page----------------------------------------)
