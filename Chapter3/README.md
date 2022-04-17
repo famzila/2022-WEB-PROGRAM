@@ -1,6 +1,6 @@
 # 2022-WEB-PROGRAM - CHAPTER 3
 
-## Web page style: CSS (current chapter)
+## Web page style: CSS
 
 - [Selectors (From basic to complex)](https://javascript.plainenglish.io/selectors-from-basic-to-complex-4f4f48316731?source=your_stories_page----------------------------------------)
 - [Box model](https://medium.com/geekculture/box-model-b67b40bb8930?source=your_stories_page----------------------------------------)

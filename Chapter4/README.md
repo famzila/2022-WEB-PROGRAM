@@ -1,0 +1,22 @@
+# 2022-WEB-PROGRAM - CHAPTER 4
+
+## Web interactions: JS
+
+
+- [Asynchronous code](https://javascript.plainenglish.io/can-the-web-live-without-asynchronous-code-7f61fe2e862e?source=your_stories_page-------------------------------------)
+- [This](https://medium.com/geekculture/this-for-developers-5dc91d499677?source=your_stories_page-------------------------------------)
+- [Variables](https://medium.com/codex/js-variables-what-you-need-to-know-fb8994ed9d0d?source=your_stories_page-------------------------------------)
+- [Scopes & hoisting](https://javascript.plainenglish.io/js-mechanism-you-should-know-12431e094103?source=your_stories_page-------------------------------------)
+- Operators
+- Closures
+- Higher-order functions
+- Objects & methods
+- Arrays, Set & Maps
+- Function & arrow functions
+- Timeouts & intervals
+- Destructuring & spread
+- Callbacks & promises
+- Async, await
+- Modules
+- Classes
+- ES6+ syntaxes
