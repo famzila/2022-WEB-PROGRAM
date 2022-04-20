@@ -7,7 +7,7 @@
 - [This](https://medium.com/geekculture/this-for-developers-5dc91d499677?source=your_stories_page-------------------------------------)
 - [Variables](https://medium.com/codex/js-variables-what-you-need-to-know-fb8994ed9d0d?source=your_stories_page-------------------------------------)
 - [Scopes & hoisting](https://javascript.plainenglish.io/js-mechanism-you-should-know-12431e094103?source=your_stories_page-------------------------------------)
-- Operators
+- [Operators](https://famzil.medium.com/js-operators-3511c8545719?source=your_stories_page-------------------------------------)
 - Closures
 - Higher-order functions
 - Objects & methods
