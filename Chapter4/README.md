@@ -10,9 +10,9 @@
 - [Operators](https://famzil.medium.com/js-operators-3511c8545719?source=your_stories_page-------------------------------------)
 - [Closures](https://famzil.medium.com/js-closures-99666fe36a6a?source=your_stories_page-------------------------------------)
 - [Higher-order functions](https://famzil.medium.com/whats-hof-in-javascript-9fb68a9c3f6f?source=your_stories_page-------------------------------------)
-- Objects & methods
-- Arrays, Set & Maps
-- Function & arrow functions
+- [Objects & methods](https://medium.com/codex/objects-in-javascript-64fa3e82765f?source=your_stories_page-------------------------------------)
+- [Arrays, Set & Maps](https://javascript.plainenglish.io/data-structures-in-js-9a13f7aa82b3?source=your_stories_page-------------------------------------)
+- [Function & arrow functions](https://famzil.medium.com/arrow-functions-in-js-235b5ade3958?source=your_stories_page-------------------------------------)
 - Timeouts & intervals
 - Destructuring & spread
 - Callbacks & promises
