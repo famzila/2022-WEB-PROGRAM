@@ -13,7 +13,7 @@
 - [Objects & methods](https://medium.com/codex/objects-in-javascript-64fa3e82765f?source=your_stories_page-------------------------------------)
 - [Arrays, Set & Maps](https://javascript.plainenglish.io/data-structures-in-js-9a13f7aa82b3?source=your_stories_page-------------------------------------)
 - [Function & arrow functions](https://famzil.medium.com/arrow-functions-in-js-235b5ade3958?source=your_stories_page-------------------------------------)
-- Timeouts & intervals
+- [Timeouts & intervals](https://famzil.medium.com/timing-events-in-javascript-d44c24ed8641?source=your_stories_page-------------------------------------)
 - Destructuring & spread
 - Callbacks & promises
 - Async, await
