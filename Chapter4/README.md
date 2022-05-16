@@ -14,7 +14,7 @@
 - [Arrays, Set & Maps](https://javascript.plainenglish.io/data-structures-in-js-9a13f7aa82b3?source=your_stories_page-------------------------------------)
 - [Function & arrow functions](https://famzil.medium.com/arrow-functions-in-js-235b5ade3958?source=your_stories_page-------------------------------------)
 - [Timeouts & intervals](https://famzil.medium.com/timing-events-in-javascript-d44c24ed8641?source=your_stories_page-------------------------------------)
-- Destructuring & spread
+- [Destructuring & spread](https://famzil.medium.com/destructuring-spread-syntax-in-js-d9260a725c99?source=your_stories_page-------------------------------------)
 - Callbacks & promises
 - Async, await
 - Modules
