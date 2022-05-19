@@ -15,7 +15,7 @@
 - [Function & arrow functions](https://famzil.medium.com/arrow-functions-in-js-235b5ade3958?source=your_stories_page-------------------------------------)
 - [Timeouts & intervals](https://famzil.medium.com/timing-events-in-javascript-d44c24ed8641?source=your_stories_page-------------------------------------)
 - [Destructuring & spread](https://famzil.medium.com/destructuring-spread-syntax-in-js-d9260a725c99?source=your_stories_page-------------------------------------)
-- [Callbacks & promises](https://famzil.medium.com/call-me-back-later-in-javascript-9cdb74aafca3?source=your_stories_page-------------------------------------)
+- [Callbacks](https://famzil.medium.com/call-me-back-later-in-javascript-9cdb74aafca3?source=your_stories_page-------------------------------------) & [promises](https://famzil.medium.com/how-javascript-promises-you-e0039fe341ba?source=your_stories_page-------------------------------------)
 - Async, await
 - Modules
 - Classes
