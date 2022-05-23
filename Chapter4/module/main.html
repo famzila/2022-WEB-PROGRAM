@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Module demo</title>
+</head>
+<body>
+    <h1>Math operations module</h1>
+
+    <section>
+        <input id="first" type="number" name="a"/>
+        <input id="second" type="number" name="b"/>
+        <button id="add">add</button>
+        <h1 id="result"></h1>
+    </section>
+    
+    <script type="module">
+        // import the math operations module
+        import { add } from "./math-operations.js"; 
+        function compute() {
+            // Get inputs values
+            const a = document.getElementById("first")?.value;
+            const b = document.getElementById("second")?.value;
+
+            // Compute with the imported add function from the math-operations module
+            const result = add(a, b);
+            // Display results
+            document.getElementById("result").innerHTML = "Result: " + result;
+        }
+        document.getElementById('add').addEventListener('click', compute, true);
+    </script>
+</body>
+</html>
