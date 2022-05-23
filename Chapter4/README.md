@@ -16,7 +16,7 @@
 - [Timeouts & intervals](https://famzil.medium.com/timing-events-in-javascript-d44c24ed8641?source=your_stories_page-------------------------------------)
 - [Destructuring & spread](https://famzil.medium.com/destructuring-spread-syntax-in-js-d9260a725c99?source=your_stories_page-------------------------------------)
 - [Callbacks](https://famzil.medium.com/call-me-back-later-in-javascript-9cdb74aafca3?source=your_stories_page-------------------------------------) & [promises](https://famzil.medium.com/how-javascript-promises-you-e0039fe341ba?source=your_stories_page-------------------------------------)
-- Async, await
+- [Async, await](https://famzil.medium.com/making-async-code-looks-like-sync-code-in-js-b0f5133e14ae)
 - Modules
 - Classes
 - ES6+ syntaxes
