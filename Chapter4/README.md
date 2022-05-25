@@ -17,6 +17,6 @@
 - [Destructuring & spread](https://famzil.medium.com/destructuring-spread-syntax-in-js-d9260a725c99?source=your_stories_page-------------------------------------)
 - [Callbacks](https://famzil.medium.com/call-me-back-later-in-javascript-9cdb74aafca3?source=your_stories_page-------------------------------------) & [promises](https://famzil.medium.com/how-javascript-promises-you-e0039fe341ba?source=your_stories_page-------------------------------------)
 - [Async, await](https://famzil.medium.com/making-async-code-looks-like-sync-code-in-js-b0f5133e14ae)
-- Modules
+- [Modules](https://famzil.medium.com/break-your-app-into-boxes-e876937e3206?source=your_stories_page-------------------------------------)
 - Classes
 - ES6+ syntaxes
