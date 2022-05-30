@@ -18,5 +18,5 @@
 - [Callbacks](https://famzil.medium.com/call-me-back-later-in-javascript-9cdb74aafca3?source=your_stories_page-------------------------------------) & [promises](https://famzil.medium.com/how-javascript-promises-you-e0039fe341ba?source=your_stories_page-------------------------------------)
 - [Async, await](https://famzil.medium.com/making-async-code-looks-like-sync-code-in-js-b0f5133e14ae)
 - [Modules](https://famzil.medium.com/break-your-app-into-boxes-e876937e3206?source=your_stories_page-------------------------------------)
-- Classes
+- [Classes](https://famzil.medium.com/yes-js-does-have-classes-82b1093d1362?source=your_stories_page-------------------------------------)
 - ES6+ syntaxes
