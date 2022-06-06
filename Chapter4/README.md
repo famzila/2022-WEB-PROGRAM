@@ -1,4 +1,4 @@
-# 2022-WEB-PROGRAM - CHAPTER 4
+# [2022-WEB-PROGRAM - CHAPTER 4](https://levelup.gitconnected.com/congrats-to-js-chapter-finishers-e38a3ca1612c?source=your_stories_page-------------------------------------)
 
 ## Web interactions: JS
 
@@ -19,4 +19,4 @@
 - [Async, await](https://famzil.medium.com/making-async-code-looks-like-sync-code-in-js-b0f5133e14ae)
 - [Modules](https://famzil.medium.com/break-your-app-into-boxes-e876937e3206?source=your_stories_page-------------------------------------)
 - [Classes](https://famzil.medium.com/yes-js-does-have-classes-82b1093d1362?source=your_stories_page-------------------------------------)
-- ES6+ syntaxes
+- [ES6+ syntaxes](https://javascript.plainenglish.io/es6-most-essential-features-cbd2a1cf423b?source=your_stories_page-------------------------------------)
