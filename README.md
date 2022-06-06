@@ -25,7 +25,7 @@ Note: 🗣️ By the way, I speak English, French, and Arabic. So feel free to a
 - [General Web Knowledge](Chapter1)
 - [Web page skeleton: HTML](Chapter2)
 - [Web page style: CSS](Chapter3)
-- Web interactions: JavaScript
+- [Web interactions: JavaScript](https://levelup.gitconnected.com/congrats-to-js-chapter-finishers-e38a3ca1612c?source=your_stories_page-------------------------------------)
 - BOM & DOM
 - Web Performance
 - Web developer Tools
