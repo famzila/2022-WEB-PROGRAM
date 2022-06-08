@@ -25,8 +25,8 @@ Note: 🗣️ By the way, I speak English, French, and Arabic. So feel free to a
 - [General Web Knowledge](Chapter1)
 - [Web page skeleton: HTML](Chapter2)
 - [Web page style: CSS](Chapter3)
-- Web interactions: JavaScript
-- BOM & DOM
+- [Web interactions: JavaScript](Chapter4)
+- [BOM & DOM](Chapter5)
 - Web Performance
 - Web developer Tools
 - React
