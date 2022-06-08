@@ -1,4 +1,4 @@
-# 2022-WEB-PROGRAM - CHAPTER 3
+# [2022-WEB-PROGRAM - CHAPTER 3](https://medium.com/geekculture/recap-of-the-css-chapter-ae388d51e564?source=your_stories_page----------------------------------------)
 
 ## Web page style: CSS
 
