@@ -4,10 +4,8 @@
 
 - [What are the BOM & the DOM](https://medium.com/geekculture/what-are-the-dom-and-bom-9fb1a3ed736f)
 - [Element selectors](https://javascript.plainenglish.io/selecting-dom-elements-e33fb235e81d)
-- Manipulating the DOM
-- Iterating Nodelist
-- Attributes & style manipulation
-- Ajax & Fetch
+- [Manipulating the DOM](https://famzil.medium.com/dom-manipulation-13959986300?source=your_stories_page-------------------------------------)
+- [Ajax & Fetch](https://famzil.medium.com/calling-for-data-d9523c7c62e2)
 - Event bubbling & delegation
 - Event loop
 - Shadow DOM
