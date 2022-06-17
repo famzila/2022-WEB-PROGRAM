@@ -6,7 +6,7 @@
 - [Element selectors](https://javascript.plainenglish.io/selecting-dom-elements-e33fb235e81d)
 - [Manipulating the DOM](https://famzil.medium.com/dom-manipulation-13959986300?source=your_stories_page-------------------------------------)
 - [Ajax & Fetch](https://famzil.medium.com/calling-for-data-d9523c7c62e2)
-- Event bubbling & delegation
+- [Event phases in the DOM](https://famzil.medium.com/events-phases-inside-the-dom-8ca5d8929ade?source=your_stories_page-------------------------------------)
 - Event loop
 - Shadow DOM
 - APIs
