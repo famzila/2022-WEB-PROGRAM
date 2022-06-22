@@ -7,6 +7,6 @@
 - [Manipulating the DOM](https://famzil.medium.com/dom-manipulation-13959986300?source=your_stories_page-------------------------------------)
 - [Ajax & Fetch](https://famzil.medium.com/calling-for-data-d9523c7c62e2)
 - [Event phases in the DOM](https://famzil.medium.com/events-phases-inside-the-dom-8ca5d8929ade?source=your_stories_page-------------------------------------)
-- Event loop
+- [Event loop](https://famzil.medium.com/event-loop-visualized-78c5861e98fb)
 - Shadow DOM
 - APIs
