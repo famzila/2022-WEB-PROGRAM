@@ -27,7 +27,7 @@ Note: 🗣️ By the way, I speak English, French, and Arabic. So feel free to a
 - [Web page style: CSS](Chapter3)
 - [Web interactions: JavaScript](Chapter4)
 - [BOM & DOM](Chapter5)
-- Web Performance(Chapter6)
+- [Web Performance](Chapter6)
 - Web developer Tools
 - React
 - Angular
