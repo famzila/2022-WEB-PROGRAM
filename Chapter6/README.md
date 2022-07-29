@@ -7,3 +7,4 @@
 - [Preload, preconnect, prefetch, prerender, ...](https://famzil.medium.com/browser-built-in-loading-strategies-f952873be53d)
 - [Workers](https://javascript.plainenglish.io/the-hard-working-guy-behind-the-scenes-f81b41cbab69?source=your_stories_page-------------------------------------)
 - [Image Optimization](https://medium.com/geekculture/image-optimization-strategies-c0a2add046a3)
+- [Modern app rendering strategies](https://famzil.medium.com/modern-app-rendering-strategies-8abe997d1928)
