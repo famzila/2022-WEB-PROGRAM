@@ -28,8 +28,7 @@ Note: 🗣️ By the way, I speak English, French, and Arabic. So feel free to a
 - [Web interactions: JavaScript](Chapter4)
 - [BOM & DOM](Chapter5)
 - [Web Performance](Chapter6)
-- Web developer Tools
-- React
+- [Web developer Tools](Chapter7)
 - Angular
 - Design patterns
 
