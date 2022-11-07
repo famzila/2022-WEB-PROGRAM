@@ -10,7 +10,10 @@
 - [How an Angular app starts?](https://famzil.medium.com/how-does-an-angular-app-start-f7032e5655bb?source=your_stories_page-------------------------------------)
 
 ### 3- Angular component
-
+- [Component composition](https://levelup.gitconnected.com/angular-component-composition-eb292aad1f3d?source=your_stories_page-------------------------------------)
+- [Component hooks](https://medium.com/geekculture/angular-component-hooks-6fa0d9279d60)
+- Component types
+- Component creation ways
 
 ### 4- Angular templates
 - Interpolation
