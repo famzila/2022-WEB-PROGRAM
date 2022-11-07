@@ -9,29 +9,32 @@
 - [Architectural overview](https://medium.com/geekculture/angular-architectural-overview-94d41edd32d1?source=your_stories_page-------------------------------------)
 - [How an Angular app starts?](https://famzil.medium.com/how-does-an-angular-app-start-f7032e5655bb?source=your_stories_page-------------------------------------)
 
-### 3- Angular templates
+### 3- Angular component
+
+
+### 4- Angular templates
 - Interpolation
 - Property binding
 - Event binding
 - #ref variables
 
-### 4- Angular Rendering
+### 5- Angular Rendering
 - Structural directives *ngIf, *ngFor, *ngClass, …Etc
 
-### 5- Angular Forms
+### 6- Angular Forms
 - Template-driven forms
 - Reactive forms
 - Dynamic forms
 
-### 6- Angular Services
+### 7- Angular Services
 - HTTP
 - Interceptor
 
-### 7- Angular lifecycle hooks
+### 8- Angular lifecycle hooks
 
-### 8- Angular routing and guards
+### 9- Angular routing and guards
 
-### 9- Advanced Angular:
+### 10- Advanced Angular:
 - Custom directives
 - Custom pipes
 - Modules
@@ -41,13 +44,13 @@
 - App state management
 - Compilation System
 
-### 10- Angular testing
+### 11- Angular testing
 - Pipes
 - Services with dependencies
 - Component bindings
 - Directives
 - Component templates
 
-### 11- Designing Angular app
+### 12- Designing Angular app
 
-### 12- Angular app metrics
+### 13- Angular app metrics
