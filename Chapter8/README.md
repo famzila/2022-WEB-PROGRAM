@@ -12,13 +12,13 @@
 ### 3- Angular component
 - [Component composition](https://levelup.gitconnected.com/angular-component-composition-eb292aad1f3d?source=your_stories_page-------------------------------------)
 - [Component hooks](https://medium.com/geekculture/angular-component-hooks-6fa0d9279d60)
-- Component types
-- Component creation ways
+- [Component types](https://medium.com/geekculture/angular-component-types-4b9c57877639?source=your_stories_page-------------------------------------)
+- [Component, thr right way to create them](https://medium.com/javascript-in-plain-english/the-right-way-to-create-angular-components-69228c5cc0fd?source=your_stories_page-------------------------------------)
 
 ### 4- Angular templates
-- Interpolation
-- Property binding
-- Event binding
+- [Interpolation](https://medium.com/javascript-in-plain-english/angular-template-powers-1-1af3b1f69981?source=your_stories_page-------------------------------------)
+- [Property binding](https://medium.com/javascript-in-plain-english/angular-template-powers-1-1af3b1f69981?source=your_stories_page-------------------------------------)
+- [Event binding](https://medium.com/javascript-in-plain-english/angular-template-powers-1-1af3b1f69981?source=your_stories_page-------------------------------------)
 - #ref variables
 
 ### 5- Angular Rendering
