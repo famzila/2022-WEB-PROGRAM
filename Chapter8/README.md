@@ -19,7 +19,7 @@
 - [Interpolation](https://medium.com/javascript-in-plain-english/angular-template-powers-1-1af3b1f69981?source=your_stories_page-------------------------------------)
 - [Property binding](https://medium.com/javascript-in-plain-english/angular-template-powers-1-1af3b1f69981?source=your_stories_page-------------------------------------)
 - [Event binding](https://medium.com/javascript-in-plain-english/angular-template-powers-1-1af3b1f69981?source=your_stories_page-------------------------------------)
-- <ng-container>, <ng-template> and <ng-content>
+- ng-container, ng-template and ng-content
 - #ref variables
 
 ### 5- Angular Rendering
